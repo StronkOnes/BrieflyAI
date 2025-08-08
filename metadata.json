@@ -1,0 +1,8 @@
+{
+  "name": "BrieflyAI - Complete Business Automation OS",
+  "description": "Briefly is your all-in-one AI assistant for research, content creation, lead tracking, and sales reporting. Automate your workflow, generate high-quality content, and manage your funnel from start to finish — all in one smart platform.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
